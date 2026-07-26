@@ -1,0 +1,14 @@
+streamlit
+streamlit-option-menu
+pandas
+numpy
+scikit-learn
+plotly
+reportlab
+PyPDF2
+pdfplumber
+nltk
+spacy
+joblib
+
+matplotlib

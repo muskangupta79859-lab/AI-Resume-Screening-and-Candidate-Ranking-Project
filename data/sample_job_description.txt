@@ -1,0 +1,28 @@
+Machine Learning Engineer
+
+We are looking for an enthusiastic Machine Learning Engineer.
+
+Required Skills
+
+Python
+SQL
+Machine Learning
+Deep Learning
+TensorFlow
+Keras
+Scikit-learn
+Pandas
+NumPy
+Docker
+Git
+AWS
+Linux
+NLP
+
+Responsibilities
+
+Develop ML models
+Build AI applications
+Perform data preprocessing
+Deploy ML models
+Work with cloud platforms
