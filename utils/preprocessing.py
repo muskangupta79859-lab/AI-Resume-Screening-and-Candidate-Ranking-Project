@@ -3,15 +3,21 @@ import nltk
 import spacy
 from nltk.corpus import stopwords
 
-# Download only if missing
+# Download NLTK stopwords if missing
 try:
     stop_words = set(stopwords.words("english"))
 except LookupError:
     nltk.download("stopwords")
     stop_words = set(stopwords.words("english"))
 
-# Load spaCy model
-nlp = spacy.load("en_core_web_sm")
+# Load spaCy model (download automatically if missing)
+try:
+    nlp = spacy.load("en_core_web_sm")
+except OSError:
+    from spacy.cli import download
+
+    download("en_core_web_sm")
+    nlp = spacy.load("en_core_web_sm")
 
 
 def clean_text(text):
