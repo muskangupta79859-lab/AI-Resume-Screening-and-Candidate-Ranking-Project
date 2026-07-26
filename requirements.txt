@@ -8,7 +8,6 @@ reportlab
 PyPDF2
 pdfplumber
 nltk
-spacy
 joblib
 PyMuPDF==1.26.3
 matplotlib
