@@ -10,7 +10,7 @@ An AI-powered Resume Screening System that automatically analyzes resumes, extra
 
 ## 🚀 Live Demo
 
-🔗 **Coming Soon (Streamlit Cloud)**
+🔗https://ai-resume-screening-and-candidate-ranking-project-nn9wpmaj8fic.streamlit.app/
 
 ---
 
