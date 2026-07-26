@@ -12,3 +12,4 @@ spacy
 joblib
 PyMuPDF==1.26.3
 matplotlib
+python-docx==1.2.0
